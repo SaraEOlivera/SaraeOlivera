@@ -1,7 +1,7 @@
 ### 👋 Hi there. My name is Sara. 
 
 * :desktop_computer: I´m interested in web development.
-* 🌱 I’m currently learning HTML, CSS, JS, Python and MySQL
+* 🌱 I’m currently learning PHP, JS, Python and MySQL
 * 👯 I’m looking to collaborate on any project that allows me to learn, acquire programming experience and meet people with the same interests. 
 * 📫 You can reach me at saraeolivera@gmail.com
 <!--
