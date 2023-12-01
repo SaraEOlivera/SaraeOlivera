@@ -3,7 +3,7 @@
 * :desktop_computer: I´m interested in web development.
 * 🌱 I’m currently learning PHP, JS, Python and MySQL
 * 👯 I’m looking to collaborate on any project that allows me to learn, acquire programming experience and meet people with the same interests. 
-* 📫 You can reach me at saraeolivera@gmail.com
+* 📫 Contact me at saraeolivera@gmail.com
 <!--
 **SaraEOlivera/SaraeOlivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
